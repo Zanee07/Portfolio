@@ -1,0 +1,14 @@
+:root {
+    --primary-color: #151515;
+    --light-primary: #111111;
+    --second-color:  #216869;
+    --light-primary: ##9C9990;
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
